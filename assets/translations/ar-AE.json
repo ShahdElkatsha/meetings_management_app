@@ -1,0 +1,98 @@
+{
+  "title": "نظام إدارة الاجتماعات",
+  "language" : "English",
+
+  "welcome,": "مرحبًا،",
+  "start_to_signup_with_your_data": "ابدأ في التسجيل باستخدام بياناتك",
+  "signup": "سجل",
+  "enter_your_full_name": "أدخل اسمك الكامل",
+  "enter_your_email" : "أدخل بريدك الإلكتروني",
+  "enter_phone_number" : "أدخل رقم هاتفك",
+  "enter_your_password" : "أدخل كلمة المرور",
+  "confirm_your_password" : "تأكيد كلمة المرور",
+  "remember_me" : "تذكرني",
+  "already_have_an_account?" : "هل لديك حساب بالفعل؟",
+
+  "login" : "تسجيل الدخول",
+  "welcome_Back,": "مرحبًا مجددًا،",
+  "start_to_login_with_your_data" : "ابدأ في تسجيل الدخول باستخدام بياناتك",
+  "Keep_me_logged_in" : "حفظ بيانات الدخول",
+  "forgot_password?" : "نسيت كلمة المرور؟",
+  "Don’t_have_an_account?": "ليس لديك حساب؟",
+
+  "meetings" : "الاجتماعات",
+  "search_for_meeting" : "البحث عن اجتماع",
+  "request_to_Schedule_a_Meeting" : "طلب جدولة اجتماع",
+
+  "meeting_name" : "اسم الاجتماع",
+  "Team_managed_software": "برمجيات مدارة من قبل الفريق",
+  "Room_06" : "الغرفة 06",
+  "date" : "17 أبريل 2023",
+  "time" : "04:30 مساءً - 07:00 مساءً",
+
+  "Meeting Name" : "اسم الاجتماع",
+  "meeting_type" : "نوع الاجتماع",
+  "Select available Date" : "حدد تاريخ متاح",
+  "Select available Time" : "حدد وقت متاح",
+  "Select available room" : "حدد غرفة متاحة",
+  "Select Priority" : "حدد الأولوية",
+  "Select Tools" : "حدد الأدوات",
+  "Add Food" : "إضافة طعام",
+  "Add Description" : "إضافة وصف",
+  "Add Guests" : "إضافة ضيوف",
+  "Cancel" : "إلغاء",
+  "Request" : "طلب",
+
+  "(Weekly)" : "(أسبوعيًا)",
+  "team_managed_software" : "برمجيات مدارة من قبل الفريق",
+
+  "Before": "قبل",
+  "During" : "أثناء",
+  "After": "بعد",
+
+  "Room:" : "الغرفة:",
+  "Date:" : "التاريخ:",
+  "Project:" : "المشروع:",
+  "Down Town Area" : "منطقة وسط المدينة",
+  "Organizer:" : "المنظم:",
+  "Members:" : "الأعضاء:",
+  "What we will discuss:" : "ما سنناقشه:",
+  "Purpose of meeting:" : "غرض الاجتماع:",
+  "Meeting Equipment:" : "معدات الاجتماع:",
+  "Files to be discussed:" : "الملفات المراد مناقشتها:",
+
+  "Scrum masters details file" : "ملف تفاصيل مسؤول ال Scrum",
+
+
+  "Break:" : "استراحة:",
+  "30 Minutes" : "30 دقيقة",
+  "Attendance:" : "الحضور:",
+  "Notes we take:" : "الملاحظات التي نأخذها:",
+  "Open discussion:" : "مناقشة مفتوحة:",
+  "New Documents we’ve discussed:" : "المستندات الجديدة التي تمت مناقشتها:",
+
+  "Not Defined" : "غير محدد",
+  "Next Meeting Date:" : "تاريخ الاجتماع القادم:",
+  "Meeting Duration Time:" : "3 ساعات",
+  "Next Organizer:" : "المنظم القادم:",
+  "Conclusion (Follow Up):" : "الختام (متابعة):",
+  "Decisions we’ve made" : "القرارات التي اتخذناها",
+  "Task assigned to you" : "المهمة المسندة لك",
+  "Task" : "مهمة",
+  "(14 April 2023)" : "(14 أبريل 2023)",
+  "17 April 2023" : "17 أبريل 2023",
+  "04:30 PM - 07:00 PM" : "04:30 مساءً - 07:00 مساءً",
+
+  "Task name" : "اسم المهمة",
+  "Attach" : "ألحق",
+  "Medium" : "متوسط",
+  "To do" : "للقيام به",
+  "Description" : "الوصف",
+  "Files" : "الملفات"
+
+}
+
+
+
+
+

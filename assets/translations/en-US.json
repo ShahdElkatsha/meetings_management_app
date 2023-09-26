@@ -1,0 +1,93 @@
+{
+  "title": "Meeting Management System",
+  "language" : "العربية",
+
+
+  "welcome,": "Welcome,",
+  "start_to_signup_with_your_data": "Start to signup with your data",
+  "signup": "Signup",
+  "enter_your_full_name": "Enter your full name",
+  "enter_your_email" : "Enter your email",
+  "enter_phone_number" : "Enter your phone number",
+  "enter_your_password" : "Enter your password",
+  "confirm_your_password" : "Confirm your password",
+  "remember_me" : "Remember me",
+  "already_have_an_account?" : "Already have an account?",
+
+  "login" : "Login",
+  "welcome_Back,": "Welcome Back,",
+  "start_to_login_with_your_data" : "Start to login with your data",
+  "Keep_me_logged_in" : "Keep me logged in",
+  "forgot_password?" : "Forgot Password?",
+  "Don’t_have_an_account?": "Don’t have an account?",
+
+  "meetings" : "Meetings",
+  "search_for_meeting" : "Search for meeting",
+  "request_to_Schedule_a_Meeting" : "Request to Schedule a Meeting",
+
+  "meeting_name" : "Meeting Name",
+  "Team_managed_software": "Team-managed software",
+  "Room_06" : "Room 06",
+  "date" : "17 April 2023",
+  "time" : "04:30 PM - 07:00 PM",
+
+  "Meeting Name" : "Meeting Name",
+  "meeting_type" : "Meeting Type",
+  "Select available Date" : "Select available Date",
+  "Select available Time" : "Select available Time",
+  "Select available room" : "Select available room",
+  "Select Priority" : "Select Priority",
+  "Select Tools" : "Select Tools",
+  "Add Food" : "Add Food",
+  "Add Description" : "Add Description",
+  "Add Guests" : "Add Guests",
+  "Cancel" : "Cancel",
+  "Request" : "Request",
+
+
+
+  "(Weekly)" : "(Weekly)",
+  "team_managed_software": "Team-managed software",
+
+  "Before": "Before",
+  "During" : "During",
+  "After": "After",
+
+  "Room:": "Room:",
+  "Date:": "Date:",
+  "Project:": "Project:",
+  "Down Town Area": "Down Town Area",
+  "Organizer:": "Organizer:",
+  "Members:": "Members:",
+  "What we will discuss:": "What we will discuss:",
+  "Purpose of meeting:": "Purpose of meeting:",
+  "Meeting Equipment:": "Meeting Equipment:",
+  "Scrum masters details file": "Scrum masters details file",
+  "Files to be discussed:" : "Files to be discussed:",
+
+  "Break:": "Break:",
+  "30 Minutes" : "30 Minutes",
+  "Attendance:" : "Attendance:",
+  "Notes we take:" : "Notes we take:",
+  "Open discussion:" : "Open discussion:",
+  "New Documents we’ve discussed:" : "New Documents we’ve discussed:",
+
+  "Not Defined": "Not Defined",
+  "Next Meeting Date:": "Next Meeting Date:",
+  "Meeting Duration Time:": "3 hours",
+  "Next Organizer:": "Next Organizer:",
+  "Conclusion (Follow Up):": "Conclusion (Follow Up):",
+  "Decisions we’ve made": "Decisions we’ve made",
+  "Task assigned to you": "Task assigned to you",
+  "Task": "After",
+  "(14 April 2023)": "(14 April 2023)",
+  "17 April 2023": "17 April 2023",
+  "04:30 PM - 07:00 PM": "04:30 PM - 07:00 PM",
+
+  "Task name": "Task name",
+  "Attach": "Attach",
+  "Medium": "Medium",
+  "To do": "To do",
+  "Description": "Description",
+  "Files:": "Files:"
+}
