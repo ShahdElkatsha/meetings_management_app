@@ -1,6 +1,6 @@
 # meetings_app
 
-A new Flutter project.
+ui design with mvvm pattern
 
 ## Getting Started
 
